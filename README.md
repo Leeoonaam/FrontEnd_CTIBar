@@ -4,10 +4,9 @@
 ![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/1551cacd-20ce-47f5-9cef-cf230b5bcfe4)
 ![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/c5f5f12b-75ae-4a4e-ad99-9007a3398d3c)
 
-
 # Tecnologias
-
-
+- C#
+- ASP.NET Desktop
 
 # Projeto
 - Perfomance Operador
