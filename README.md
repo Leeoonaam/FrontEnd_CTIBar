@@ -1,6 +1,9 @@
 # FrontEnd CTI Bar (Windows Form)
 
-![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/4dafefec-b473-4c5e-aeb8-a0406a42834a)
+![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/86dfc84f-7394-4e4a-8cc8-8e9b0be5b1c5)
+![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/1551cacd-20ce-47f5-9cef-cf230b5bcfe4)
+![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/c5f5f12b-75ae-4a4e-ad99-9007a3398d3c)
+
 
 # Tecnologias
 
