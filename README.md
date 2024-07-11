@@ -8,6 +8,7 @@
 - C# ASP.NET Desktop
 
 # Projeto
+FrontEnd CTI Bar (Windows Form) para Operação IFood com o propósito de monitoramento, captura de tela, automação de processos e controle do usuário.
 
 - Perfomance Operador
 - Automação para abrir os sistemas legados e realizar o login automático
