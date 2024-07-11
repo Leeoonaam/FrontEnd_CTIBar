@@ -5,10 +5,10 @@
 ![image](https://github.com/Leeoonaam/FrontEnd_CTIBar/assets/97477931/c5f5f12b-75ae-4a4e-ad99-9007a3398d3c)
 
 # Tecnologias
-- C#
-- ASP.NET Desktop
+- C# ASP.NET Desktop
 
 # Projeto
+
 - Perfomance Operador
 - Automação para abrir os sistemas legados e realizar o login automático
 - Cofre de senhas
